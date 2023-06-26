@@ -4,7 +4,7 @@
 ### You can workout the lessons via two options: using your local installation of Python and Jupyter or using Binder (without the need to install Python and Jupyter)
 - ### Make a copy of the repository downloading the zip file containing all the code and the data to you local machine (be sure your local machine installation satisfy what it is writen in the file requirements.txt
 - ### You can alternatively run the code in a Binder environment on your browser if you click on the following button (the first time will take some minutes)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ant-guerrero/i4s/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ant-guerrero/i4s_geomag_2023/HEAD)
 
 
 This repository contains:
