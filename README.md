@@ -1,4 +1,4 @@
-# Geomagnetism lessons for the Iberian Space Science Summer School 2022 (i4s) 
+# Geomagnetism lessons for the Iberian Space Science Summer School (i4s) 
 ## These are several lessons prepare in order to understand the basics of the procedure to create the Dst index or any other index that gives an indication of the effects of the ring current on the ground of the Earth
 
 ### You can workout the lessons via two options: using your local installation of Python and Jupyter or using Binder (without the need to install Python and Jupyter on your computer, it runs on another computer and you work on it through your browser)
